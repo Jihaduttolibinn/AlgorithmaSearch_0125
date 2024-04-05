@@ -43,6 +43,10 @@ void LinearSearch()
         //Accept the number to be ssearched
         cout << "\nEnter the element you to search: "; //step 1
         cin >> item;
+
+        ctr = 0;
+        i = 0; // step 2
+
     }
 
 
