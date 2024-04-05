@@ -38,6 +38,8 @@ void LinearSearch()
     int ctr; // Number of comparisons
     int item;
 
+    do
+
 
 }
 
