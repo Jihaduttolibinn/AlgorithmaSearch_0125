@@ -31,3 +31,6 @@ void input()
 
 
 }
+
+void LinearSearch()
+
